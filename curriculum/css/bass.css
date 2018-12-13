@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+img {
+	display: block;
+	border: none;
+}
+			
+ul,li {
+	list-style: none;
+}
+.clearfix:after {
+	content: '';
+	line-height: 0;
+	height: 0;
+	display: block;
+	visibility: hidden;
+	clear: both;
+}
+
+ul,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,label,form,p,ol,header,footer
+,nav,section,aside,dialog,figure,figcaption,hgroup,article {
+	display: block;
+}
+
+ul {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+}
+body{
+	background: #fff;
+}

@@ -1,0 +1,93 @@
+
+section>div ul li:nth-of-type(1){
+	background: url(../images/xygk_02.jpg) no-repeat 20px center;
+}
+section>div ul li:nth-of-type(1):hover{
+	background: url(../images/xygk_03.jpg) no-repeat 20px center;
+}
+section>div ul li:nth-of-type(2){
+	background: url(../images/xygk_06.jpg) no-repeat 20px center;
+}
+section>div ul li:nth-of-type(2):hover{
+	background: url(../images/xygk_07.jpg) no-repeat 20px center;
+}
+section>div ul .hover{
+	background: url(../images/xygk_07.jpg) no-repeat 20px center !important;
+}
+
+section>div ul li:hover a{
+    border-bottom: 4px solid #fa9634;
+}
+section>div ul .hover a{
+	border-bottom: 4px solid #fa9634;
+}
+
+@media screen and (max-width: 480px) {
+	
+	section>div ul li:nth-of-type(1){
+		margin-right: 4%;
+		background: url(../images/xygk_02.jpg) no-repeat center 10px;
+	}
+	section>div ul li:nth-of-type(1):hover{
+		background: url(../images/xygk_02.jpg) no-repeat center 10px;
+	}
+	section>div ul li:nth-of-type(2){
+		background: url(../images/xygk_06.jpg) no-repeat center 10px;
+	}
+	section>div ul li:nth-of-type(2):hover{
+		background: url(../images/xygk_07.jpg) no-repeat center 10px;
+	}
+	section>div ul .hover{
+		background: url(../images/xygk_07.jpg) no-repeat center 10px  !important;
+	}
+	
+	section>div ul li:nth-of-type(1):hover a{
+	    border-bottom: 4px solid #fff;
+	}
+	
+}
+@media screen and (max-width: 760px) and (min-width: 481px) {
+	
+	section>div ul li:nth-of-type(1){
+		margin-right: 4%;
+		background: url(../images/xygk_02.jpg) no-repeat center 10px;
+	}
+	section>div ul li:nth-of-type(1):hover{
+		background: url(../images/xygk_02.jpg) no-repeat center 10px;
+	}
+	section>div ul li:nth-of-type(2){
+		background: url(../images/xygk_06.jpg) no-repeat center 10px;
+	}
+	section>div ul li:nth-of-type(2):hover{
+		background: url(../images/xygk_07.jpg) no-repeat center 10px;
+	}
+	section>div ul .hover{
+		background: url(../images/xygk_07.jpg) no-repeat center 10px  !important;
+	}
+	
+	section>div ul li:nth-of-type(1):hover a{
+	    border-bottom: 4px solid #fff;
+	}
+	
+}
+@media screen and (max-width: 1000px) and (min-width: 761px) {
+	
+	section>div ul li:nth-of-type(1){
+		background: url(../images/xygk_02.jpg) no-repeat 10px center;
+	}
+	section>div ul li:nth-of-type(1):hover{
+		background: url(../images/xygk_02.jpg) no-repeat 10px center;
+	}
+	section>div ul li:nth-of-type(2){
+		background: url(../images/xygk_06.jpg) no-repeat 10px center;
+	}
+	section>div ul li:nth-of-type(2):hover{
+		background: url(../images/xygk_07.jpg) no-repeat 10px center;
+	}
+	section>div ul .hover{
+		background: url(../images/xygk_07.jpg) no-repeat 10px center !important;
+	}
+	section>div ul li:nth-of-type(1):hover a{
+	    border-bottom: 4px solid #fff;
+	}
+}

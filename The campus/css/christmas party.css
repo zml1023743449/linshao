@@ -1,0 +1,23 @@
+section>div div .bx-wrapper .bx-pager.bx-default-pager div:nth-of-type(1) a b{
+	background: url(../images/sdwh_1.jpg) no-repeat center center;
+	background-size:cover ;
+}
+section>div div .bx-wrapper .bx-pager.bx-default-pager div:nth-of-type(2) a b{
+	background: url(../images/sdwh_2.jpg) no-repeat center center;
+	background-size:cover ;
+}
+section>div div .bx-wrapper .bx-pager.bx-default-pager div:nth-of-type(3) a b{
+	background: url(../images/sdwh_3.jpg) no-repeat center center;
+	background-size:cover ;
+}
+section>div div .bx-wrapper .bx-pager.bx-default-pager div:nth-of-type(4) a b{
+	background: url(../images/sdwh_4.jpg) no-repeat center center;
+	background-size:cover ;
+}
+section>div div .bx-wrapper .bx-pager.bx-default-pager div:nth-of-type(5) a b{
+	background: url(../images/sdwh_5.jpg) no-repeat center center;
+	background-size:cover ;
+}
+section>div ul .hover:nth-of-type(6){
+	background:  url(../images/sdwh.gif) no-repeat 20px center;
+}
